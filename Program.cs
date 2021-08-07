@@ -55,6 +55,27 @@ namespace Calculator
             
             */
 
+            //Arrays
+
+            //identify a number at a specific index of an array
+            int[] luckyNumbers = { 4, 8, 15, 16, 23, 42 };
+            Console.WriteLine(luckyNumbers[4]);
+
+            //update a number in array by index number
+            //int[] luckyNumbers = { 4, 8, 15, 16, 23, 42 };
+            luckyNumbers[1] = 900;
+            Console.WriteLine(luckyNumbers[1]);
+
+            //setting up an array with room for 5 elements. assigning values later by index
+            string[] friends = new string[5];
+            friends[0] = "Jim";
+            friends[1] = "Mandy";
+
+
+
+
+
+
 
 
 
