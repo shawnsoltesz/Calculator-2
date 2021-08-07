@@ -6,6 +6,8 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
+            /*
+            
             //Convert string to integer
             int num = Convert.ToInt32("45");
             Console.WriteLine(num);
@@ -32,6 +34,30 @@ namespace Calculator
             double num4 = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine(num3 + num4);
+
+            
+            //Madlibs Game
+
+            string color, pluralNoun, celebrity;
+
+            Console.Write("Enter a color: ");
+            color = Console.ReadLine();
+
+            Console.Write("Enter a plural noun: ");
+            pluralNoun = Console.ReadLine();
+
+            Console.Write("Enter a celebrity: ");
+            celebrity = Console.ReadLine();
+
+            Console.WriteLine("Roses are " + color);
+            Console.WriteLine(pluralNoun + " are blue");
+            Console.WriteLine("I love " + celebrity);
+            
+            */
+
+
+
+
 
 
 
